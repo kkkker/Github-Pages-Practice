@@ -25,7 +25,7 @@ git加GitHub账号：	git congif --global user.username " "
 
 上传：				git push origin master
 
-更新：				git pull <REMOTENAME> <BRANCHNAME>
+更新（下载）：		git pull <REMOTENAME> <BRANCHNAME>
 
 切换目录：          cd
 
